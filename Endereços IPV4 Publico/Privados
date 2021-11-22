@@ -1,0 +1,29 @@
+Endereços IPV4 Publico / Privados 
+
+             Classes
+
+A --> 0.0.0.0   --> 127.255.255.255
+                  127
+
+B --> 128.0.0.0 --> 191.255.255.255
+                    169 apipa
+
+C --> 192.0.0.0 --> 223.255.255.255
+
+D --> 224.0.0.0 --> 239.255.255.255
+                    224
+
+E --> 240.0.0.0 --> 247.255.255.255
+
+
+
+Classes Privadas / CIDR
+
+A --> 10.0.0.0.0 Pode ir até --> 10.255.255.255 - Máscara de rede padrão 255.0.0.0        |  Conhecida como  /8
+
+B --> 172.16.0.0 Pode ir até --> 172.31.255.255 - Máscara de rede padrão 255.255.0.0      |  Conhecida como /16
+
+C --> 192.168.0.0 Pode ir até --> 192.168.255.255 - Máscara de rede padrão 255.255.255.0  |  Conhecida como /24
+
+
+
