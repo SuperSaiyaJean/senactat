@@ -26,4 +26,3 @@ B --> 172.16.0.0 Pode ir até --> 172.31.255.255 - Máscara de rede padrão 255.
 C --> 192.168.0.0 Pode ir até --> 192.168.255.255 - Máscara de rede padrão 255.255.255.0  |  Conhecida como /24
 
 
-
